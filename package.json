@@ -1,0 +1,11 @@
+{
+  "name": "param2path",
+  "version": "1.0.0",
+  "description": "a tool translate requestparam to pathvalue",
+  "main": "./src/param2path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "canduzhang",
+  "license": "MIT"
+}
