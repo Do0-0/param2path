@@ -1,6 +1,6 @@
 {
   "name": "param2path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a tool translate requestparam to pathvalue",
   "main": "./src/param2path.js",
   "scripts": {
