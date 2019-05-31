@@ -1,13 +1,15 @@
 module.exports = {
     /**
-     * 获取Defer对象
-     * @return {[type]} [description]
+     * 返回请求路径
+     * @param url
+     * @param param
+     * @return
      */
     param2path: function(url, param){
         let _url = url;
         for (let key in param) {
             _url += param[key] + '/'
         }
-        console.log(_url);
+        return _url
     }
 }
