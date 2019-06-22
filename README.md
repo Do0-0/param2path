@@ -11,8 +11,8 @@ let param = {
 	name: '广州市'
 }
 
-var path = param2path('http://localhost:8080/mfs-wx/', param)
-// http://localhost:8080/mfs-wx/123.1232123/23.2646/广州市/
+var path = param2path('http://localhost:8080/projectName/', param)
+// http://localhost:8080/projectName/123.1232123/23.2646/广州市/
 ```
 
 ## Install
